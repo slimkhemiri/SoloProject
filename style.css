@@ -1,0 +1,141 @@
+#play {
+  border: 5px solid rgb(112, 167, 238);
+  border-radius: 20%;
+  background-color: transparent;
+  height: 100px;
+  width: 250px;
+  font-size: xx-large;
+  font-family: cursive;
+  margin-left: 43%;
+  position: absolute;
+  top: 49%;
+}
+#guess {
+  border: 2px solid rgb(112, 167, 238);
+  border-radius: 15%;
+  height: 90px;
+  width: 290px;
+  margin-top: 0.3%;
+  margin-left: 9%;
+  background-color: rgb(143, 245, 233);
+}
+
+#guess2 {
+  border: 2px solid rgb(112, 167, 238);
+  border-radius: 15%;
+  height: 90px;
+  width: 290px;
+  margin-top: 0.3%;
+  margin-left: 9%;
+  background-color: rgb(143, 245, 233);
+}
+#guess3 {
+  border: 2px solid rgb(112, 167, 238);
+  border-radius: 15%;
+  height: 90px;
+  width: 290px;
+  margin-top: 0.3%;
+  margin-left: 9%;
+  background-color: rgb(143, 245, 233);
+}
+.return {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+#img1 {
+  height: 30%;
+  width: 30%;
+  margin-left: 0%;
+}
+#img2 {
+  height: 25%;
+  width: 25%;
+  float: left;
+}
+#check {
+  border: 2px solid rgb(112, 167, 238);
+  border-radius: 20%;
+  background-color: transparent;
+  height: 95px;
+  width: 120px;
+  font-size: x-large;
+  font-family: cursive;
+  margin-left: 1%;
+  position: absolute;
+  top: 73%;
+}
+
+#check2 {
+  border: 2px solid rgb(112, 167, 238);
+  border-radius: 20%;
+  background-color: transparent;
+  height: 95px;
+  width: 120px;
+  font-size: x-large;
+  font-family: cursive;
+  margin-left: 1%;
+  position: absolute;
+  top: 73%;
+}
+
+#check3 {
+  border: 2px solid rgb(112, 167, 238);
+  border-radius: 20%;
+  background-color: transparent;
+  height: 95px;
+  width: 120px;
+  font-size: x-large;
+  font-family: cursive;
+  margin-left: 1%;
+  position: absolute;
+  top: 73%;
+}
+
+#next {
+  border: 3px solid rgb(112, 167, 238);
+  border-radius: 20%;
+  background-color: transparent;
+  height: 100px;
+  width: 200px;
+  font-size: xx-large;
+  font-family: cursive;
+  margin-left: 13%;
+  position: absolute;
+  top: 49%;
+}
+body {
+  opacity: 0.9;
+  background-size: 100%;
+  background-image: url(https://cdn-apabk.nitrocdn.com/QQUvjmPGpOGmpUxCkqAsSnVUjfEULAuk/assets/static/optimized/rev-ed78656/wp-content/uploads/2021/02/Who-Am-I-Game-e1612588396117.jpg);
+}
+
+.timer {
+  line-height: 40px;
+  margin-top: -10px;
+  position: absolute;
+  text-align: center;
+  top: 90%;
+  width: 99%;
+  font-size: 150%;
+  background-color: rgb(53, 35, 83);
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#over {
+  border: 5px solid rgb(112, 167, 238);
+  border-radius: 30%;
+  background-color: transparent;
+  height: 100px;
+  width: 300px;
+  font-size: xx-large;
+  font-family: cursive;
+  margin-left: 17%;
+  position: absolute;
+  top: 49%;
+}
+#countdown {
+  color: red;
+  font-size: 40px;
+}
